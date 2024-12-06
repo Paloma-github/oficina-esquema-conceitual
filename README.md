@@ -12,7 +12,12 @@ O diagrama representa as entidades e os relacionamentos do sistema:
 - **Mecânico**
 - **Serviço**
 - **Peça**
-![Esquema_Conceitual_Oficina](https://github.com/user-attachments/assets/96a5b453-913a-4f63-b608-97adfa56c61e)
+
+
+
+
+![Esquema_Conceitual_Oficina_Vertical](https://github.com/user-attachments/assets/a4118528-914d-437c-829f-03f13902fc0f)
+
 
 
 
